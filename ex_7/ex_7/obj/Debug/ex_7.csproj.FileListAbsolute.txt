@@ -1,0 +1,7 @@
+C:\Users\Windows 10\source\repos\ex_7\ex_7\obj\Debug\ex_7.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\ex_7\ex_7\obj\Debug\ex_7.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\ex_7\ex_7\bin\Debug\ex_7.exe.config
+C:\Users\Windows 10\source\repos\ex_7\ex_7\bin\Debug\ex_7.exe
+C:\Users\Windows 10\source\repos\ex_7\ex_7\bin\Debug\ex_7.pdb
+C:\Users\Windows 10\source\repos\ex_7\ex_7\obj\Debug\ex_7.exe
+C:\Users\Windows 10\source\repos\ex_7\ex_7\obj\Debug\ex_7.pdb
